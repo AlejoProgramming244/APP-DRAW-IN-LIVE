@@ -1,0 +1,43 @@
+.heading
+{
+    width: 100%;
+    font-size: 23px;
+    margin: 0px;
+    box-shadow: 5px 5px 5px blue;
+}
+
+.note
+{
+    font-size: 13px;
+    color: black;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: rgb(255, 73, 53);
+    bottom: 0;
+    width: 100%;
+    background-color: skyblue;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas
+{
+    border: 5px salmon double;
+    box-shadow: 5px 5px 5px rgb(178, 0, 0);
+    border-radius: 20px;
+    background-color: rgb(255, 214, 148);
+    margin-left: 150px;
+}
+
+video
+{
+    margin-left: 50px;
+    margin-top: 70px;
+    padding: 0px;
+    border-radius: 60px;
+    border: 7px green ridge;
+    box-shadow: 10px 10px 10px rgb(203, 235, 135);
+}
